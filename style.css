@@ -1,0 +1,52 @@
+/*Styling for body*/
+body{
+    /*changes the background color*/
+    background-color:rgb(215, 234, 234);
+}
+
+/*Styling for main heading*/
+h1{
+    /*centers the text on the page*/
+    text-align: center;
+    /*underlines the title*/
+    text-decoration-line: underline;
+    /*enlarges the text size*/
+    font-size: 500%;
+    /*changes the font of the text*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Styling for subtitle*/
+h2{
+    /*centers the text on the page*/
+    text-align: center;
+    /*enlarges the text size*/
+    font-size: 300%;
+    
+}
+
+/*Styling for paragraph headings*/
+h3{
+    /*moves the text over to the right*/
+    padding-left: 10%;
+    /*moves the text over to the left*/
+    padding-right: 10%;
+    /*enlarges the text*/
+    font-size: x-large;
+}
+
+/*Styling for paragraphs*/
+p{
+    /*stops the text from passing a certain point to the left*/
+    padding-left: 10%;
+    /*stops the text from passing a certain point to the right*/
+    padding-right: 10%;
+    /*enlarges the text*/
+    font-size: larger;
+    /*changes the paragraph text color*/
+    color: rgb(181, 18, 18);
+    /*indents the paragraphs*/
+    text-indent: 4%;
+    /*double-spaces the pragraphs*/
+    line-height: 2em;
+}
